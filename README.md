@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @louwpost
 - 👀 I’m interested in pretty much everything IT related
-- 🌱 I’m currently learning Java
-- 📫 You can always reach out through Twitter
+- 🌱 I’m currently learning C#
+- 📫 You can always reach out through Bluesky
 
 <!---
 louwpost/louwpost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
