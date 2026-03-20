@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @louwpost
 - 👀 I’m interested in pretty much everything IT related
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 - 📫 You can always reach out through Bluesky
 
 <!---
