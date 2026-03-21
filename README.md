@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- ✨ Reporting bugs since 2014<br>- 🌱 Currently learning Python<br>- 👀 Interested in pretty much everything IT related<br>- 📫 You can always reach out through Bluesky</p>
+<p align="left">✨ Reporting bugs since 2014<br>🌱 Currently learning Python<br>👀 Interested in pretty much everything IT related<br>📫 You can always reach out through Bluesky</p>
 
 ###
 
