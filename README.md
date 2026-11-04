@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Reporting bugs since 2014<br>🌱 Currently learning Python<br>👀 Interested in pretty much everything IT related<br>📫 You can always reach out through Bluesky</p>
+<p align="left">✨ Reporting bugs since 2014<br>🌱 Currently learning Python<br>👀 Interested in pretty much everything IT related<br>📫 You can always reach out through Threads or Bluesky</p>
 
 ###
 
@@ -47,7 +47,9 @@
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="json logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" height="40" alt="playwright logo"  />
   <p> </p>
   <p>As someone with a wide interest in IT related subjects, I always try to learn new technologies and developments. That doesn't necessarily have to be related or helpful to my occupation.</p>
 </div>
@@ -59,9 +61,9 @@
 ###
 
 <div align="left">
-  <a href="https://bsky.app/profile/louwpost.nl" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" height="40" alt="bluesky logo" /></a>
+  <a href="https://www.threads.com/@louwpost" target="_blank"><img src="https://github.com/glincker/thesvg/blob/main/public/icons/threads/default.svg" height="40" alt="threads logo" /></a>
   <img width="12" />
-  <a href="https://www.linkedin.com/in/louwpost" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo"  /></a>
+  <a href="https://bsky.app/profile/louwpost.nl" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" height="40" alt="bluesky logo" /></a>
 </div>
 
 ###
