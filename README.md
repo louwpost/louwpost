@@ -50,6 +50,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" height="40" alt="playwright logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubcopilot/githubcopilot-original.svg" height="40" alt="github copilot logo"  />
   <p> </p>
   <p>As someone with a wide interest in IT related subjects, I always try to learn new technologies and developments. That doesn't necessarily have to be related or helpful to my occupation.</p>
 </div>
